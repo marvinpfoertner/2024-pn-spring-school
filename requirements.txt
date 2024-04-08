@@ -1,0 +1,6 @@
+jupyterlab
+ipykernel
+ipywidgets
+ipympl
+probnum[keops] @ git+https://github.com/probabilistic-numerics/probnum.git
+linpde-gp[plotting] @ git+https://github.com/marvinpfoertner/linpde-gp.git

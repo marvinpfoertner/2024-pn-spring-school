@@ -1,0 +1,6 @@
+name: pn-school-linalg
+
+dependencies:
+  - python=3.11
+  - pip:
+    - -r requirements.txt
